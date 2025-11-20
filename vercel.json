@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://sedotwcjambi.biz.id",
+      "permanent": true
+    }
+  ]
+}
